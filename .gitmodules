@@ -1,0 +1,6 @@
+[submodule "Uni-Magazine-Client"]
+	path = Uni-Magazine-Client
+	url = https://github.com/NightDreamss/Uni-Magazine-Client
+[submodule "Uni-Magazine-Server"]
+	path = Uni-Magazine-Server
+	url = https://github.com/NightDreamss/Uni-Magazine-Server
